@@ -21,7 +21,7 @@ Users should be able to:
 - See hover states for interactive elements.
 
 ### Links
-- Live Site URL:(https://anansoli.github.io)
+- Live Site URL:(https://anansoli.github.io/Leon-Template-One)
 
 
 ### Built with
