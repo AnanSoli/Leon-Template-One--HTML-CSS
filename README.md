@@ -3,7 +3,7 @@
 This is a practice for creating the main page template of a services provider website [Template provided by ElzeroWebSchool ](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_One).
 
 ### Links
-- Live Site URL:(https://anansoli.github.io/Leon-Template-One--HTLM-CSS)
+- Live Site URL:(https://anansoli.github.io/Leon-Template-One--HTML-CSS)
 
 ## Table of contents
 
