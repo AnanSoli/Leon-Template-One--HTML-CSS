@@ -2,11 +2,13 @@
 
 This is a practice for creating the main page template of a services provider website [Template provided by ElzeroWebSchool ](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_One).
 
+### Links
+- Live Site URL:(https://anansoli.github.io/Leon-Template-One)
+
 ## Table of contents
 
 - [Overview.]
 - [The Template]
-- [Links]
 - [Built with]
 - [Useful resources]
 - [Author]
@@ -19,9 +21,6 @@ This is a practice for creating the main page template of a services provider we
 Users should be able to:
 - View the optimal layout depending on their device's screen size.
 - See hover states for interactive elements.
-
-### Links
-- Live Site URL:(https://anansoli.github.io/Leon-Template-One)
 
 
 ### Built with
